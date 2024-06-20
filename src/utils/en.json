@@ -1,0 +1,31 @@
+{
+    "translation":{
+        "description": "I am a passionate front-end developer with a talent for creating robust and scalable web applications. With 2 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js as well as back-end technologies end: Node.js, Firebase and MongoDB. My goal is to leverage my experience to create innovative solutions that drive business growth and deliver exceptional user experiences.",
+        "tec": "Technologies",
+        "exp": "Experiences",
+        "title01" : "Front-end Developer",
+        "data01": "2023 - 2024",
+        "exp01" : "At Elevart Agency, I have the opportunity to collaborate with a talented team to develop websites and landing pages that not only visually impress, but also offer an impeccable user experience. From day one, I have worked hard to ensure each project meets the highest quality standards, integrating the latest design trends with an accessibility-centric approach.",
+        "data02": "2023 - 2027",
+        "title02" : "Study",
+        "exp02" : "In 2023 I started my Information Systems course at UNOPAR university.",
+        "data03": "2022 - 2023",
+        "title03" : "Autonomous Developer",
+        "exp03" : "I worked on creating Landing pages and websites for local companies, with the main focus on providing digital solutions with the unique identity of each company, with the objective of achieving positive commercial numbers.",
+        "proj" : "Projects",
+        "proj01title" : "Doak Store Website",
+        "proj01descrip" : "Website developed for a men's fashion store, with functionality to register products and purchase.",
+        "proj02title" : "YourLink",
+        "proj02descrip": "The project is an application developed in TypeScript using React and with an interface built with Tailwind CSS. Inspired by the Linktree concept, it offers a solution to centralize and organize links to different advertising platforms.",
+        "proj03title" : "StarMovie",
+        "proj03descrip": "The goal of this project is to create an application that allows users to search for movies and obtain detailed information about them by consuming The Movie Database (TMDB) API. Additionally, users will be able to register their favorite movies for quick access.",
+        "proj04title" : "Online Menu",
+        "proj04descrip" :"An online menu for local food businesses is a project developed in JavaScript that aims to offer a digital platform for restaurants and food establishments. Using modern web technologies such as HTML, CSS and JavaScript, the goal is to create an intuitive and responsive interface that allows customers to conveniently view, select and order menu items.",
+        "proj05title" : "Portfolio Website",
+        "proj05descrip" : "A personal portfolio website featuring projects, skills and contact information.",
+        "proj06title" : "Landing Page",
+        "proj06descrip" : "Landing page developed for a local barbershop is a web page specifically designed to attract and convert visitors into potential customers for the establishment. With a design focused on user experience, the landing page offers essential information in a clear and direct way, highlighting the services offered by the barbershop, opening hours, location and contact information.",
+        "contact" : "Contact"
+    }
+    
+}

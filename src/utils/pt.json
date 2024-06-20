@@ -1,0 +1,31 @@
+{
+    "translation":{
+        "description": "Sou um desenvolvedor front-end apaixonado e com talento para criar aplicações web robustas e escaláveis. Com 2 anos de experiência prática, aprimorei minhas habilidades em tecnologias front-end como React e Next.js, bem como em tecnologias back-end: Node.js, Firebase e MongoDB. Meu objetivo é aproveitar minha experiência para criar soluções inovadoras que impulsionem o crescimento dos negócios e proporcionem experiências excepcionais ao usuário.",
+        "tec": "Tecnologias",
+        "exp": "Experiências",
+        "title01" : "Front-end Developer",
+        "data01": "2023 - 2024",
+        "exp01" : "Na Agência Elevart, tenho a oportunidade de colaborar com uma equipe talentosa para desenvolver sites e landing pages que não apenas impressionem visualmente, mas também ofereçam uma experiência de usuário impecável. Desde o primeiro dia, tenho trabalhado duro para garantir que cada projeto atenda aos mais altos padrões de qualidade, integrando as últimas tendências de design com uma abordagem centrada na acessibilidade.",
+        "data02": "2023 - 2027",
+        "title02" : "Estudante",
+        "exp02" : "Em 2023 iniciei meu curso de Sistemas de Informação na universidade UNOPAR.",
+        "data03": "2022 - 2023",
+        "title03" : "Desenvolvedor Autônomo",
+        "exp03" : "Trabalhei na criação de Landing pages e sites para empresas locais, com foco principal em fornecer soluções digitais com a identidade única de cada empresa, com o objetivo de atingir números comerciais positivos.",
+        "proj" : "Projetos",
+        "proj01title" : "Website loja Doak",
+        "proj01descrip" : "Site desenvolvido para loja de moda masculina, com funcionalidade para cadastro de produtos e compra.",
+        "proj02title" : "YourLink",
+        "proj02descrip": "O projeto é uma aplicação desenvolvida em TypeScript utilizando React e com interface construída em Tailwind CSS. Inspirado no conceito Linktree, oferece uma solução para centralizar e organizar links para diferentes plataformas de publicidade.",
+        "proj03title" : "StarMovie",
+        "proj03descrip": "The goal of this project is to create an application that allows users to search for movies and obtain detailed information about them by consuming The Movie Database (TMDB) API. Additionally, users will be able to register their favorite movies for quick access.",
+        "proj04title" : "Online Menu",
+        "proj04descrip" :"Um cardápio online para empresas alimentícias locais é um projeto desenvolvido em JavaScript que tem como objetivo oferecer uma plataforma digital para restaurantes e estabelecimentos de alimentação. Usando tecnologias web modernas, como HTML, CSS e JavaScript, o objetivo é criar uma interface intuitiva e responsiva que permita aos clientes visualizar, selecionar e solicitar itens de menu de maneira conveniente.",
+        "proj05title" : "Portfolio Website",
+        "proj05descrip" : "Um site de portfólio pessoal com projetos, habilidades e informações de contato.",
+        "proj06title" : "Landing Page",
+        "proj06descrip" : "Landing page desenvolvida para uma barbearia local é uma página web desenvolvida especificamente para atrair e converter visitantes em potenciais clientes para o estabelecimento. Com design focado na experiência do usuário, a landing page oferece informações essenciais de forma clara e direta, destacando os serviços oferecidos pela barbearia, horário de funcionamento, localização e dados de contato.",
+        "contact" : "Entre em contato"
+    }
+    
+}
