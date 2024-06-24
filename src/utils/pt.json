@@ -18,7 +18,7 @@
         "proj02title" : "YourLink",
         "proj02descrip": "O projeto é uma aplicação desenvolvida em TypeScript utilizando React e com interface construída em Tailwind CSS. Inspirado no conceito Linktree, oferece uma solução para centralizar e organizar links para diferentes plataformas de publicidade.",
         "proj03title" : "StarMovie",
-        "proj03descrip": "The goal of this project is to create an application that allows users to search for movies and obtain detailed information about them by consuming The Movie Database (TMDB) API. Additionally, users will be able to register their favorite movies for quick access.",
+        "proj03descrip": "O objetivo deste projeto é criar uma aplicação que permita aos usuários pesquisar filmes e obter informações detalhadas sobre eles consumindo a API The Movie Database (TMDB). Além disso, os usuários poderão cadastrar seus filmes favoritos para acesso rápido.",
         "proj04title" : "Online Menu",
         "proj04descrip" :"Um cardápio online para empresas alimentícias locais é um projeto desenvolvido em JavaScript que tem como objetivo oferecer uma plataforma digital para restaurantes e estabelecimentos de alimentação. Usando tecnologias web modernas, como HTML, CSS e JavaScript, o objetivo é criar uma interface intuitiva e responsiva que permita aos clientes visualizar, selecionar e solicitar itens de menu de maneira conveniente.",
         "proj05title" : "Portfolio Website",
