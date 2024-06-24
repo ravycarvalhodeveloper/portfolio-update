@@ -34,7 +34,7 @@ export default function Contact() {
                     whileInView={{opacity: 1, x:0}}
                     initial={{opacity:0, x: -100}}
                     transition={{duration: 2.0}}
-                className="border-b border-neutral-800" href="">ravypdcarvalhomain007@gmail.com</motion.a>
+                className="border-b border-neutral-800" href=""> mailto:contactravycarvalhodev@gmail.com</motion.a>
             </div> 
         </div>
     )
