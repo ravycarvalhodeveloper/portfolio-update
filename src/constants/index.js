@@ -39,7 +39,7 @@ export const PROJECTS = [
     image: project1,
     description:
       "Website desenvolvido para loja de moda masculina, com funcionalidade de cadastrar produtos e compra.",
-    technologies: ["React.js", "Tailwind","Firebase", "Next.Js"],
+    technologies: ["NextJS", "Sass","CosmicJS", "Typescript"],
     url: "https://lojadoak-website.vercel.app/"
   },
   {
@@ -47,7 +47,7 @@ export const PROJECTS = [
     image: project2,
     description:
       "O projeto é uma aplicação desenvolvida em TypeScript utilizando React e com uma interface construída com Tailwind CSS. Inspirado no conceito do Linktree, ele oferece uma solução para centralizar e organizar links para diferentes plataformas de divulgação.",
-    technologies: ["React.js", "Tailwind", , "Firebase"],
+    technologies: ["React.JS", "Tailwind", , "Firebase"],
     url: "https://your-link.vercel.app/"
   },
   {
